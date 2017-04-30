@@ -1,0 +1,16 @@
+.navbar {
+    background-color: gray;
+}
+
+.navbar-brand img{
+    width: 2rem;
+}
+
+.navbar-brand p{
+    display: inline;
+    color: white;
+}
+
+.navbar a{
+    margin: auto;
+}
