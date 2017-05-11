@@ -1,5 +1,5 @@
 .navbar {
-    background-color: gray;
+    background-color: orangered;
 }
 
 .navbar-brand img{
@@ -13,4 +13,13 @@
 
 .navbar a{
     margin: auto;
+}
+
+.fixed-top{
+    position: inherit;
+}
+
+.login i{
+    color: white;
+    margin-top: 8px;
 }
