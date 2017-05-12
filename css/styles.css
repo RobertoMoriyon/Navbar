@@ -1,25 +1,25 @@
 .navbar {
-    background-color: orangered;
+    background-color: #CA0305;
 }
 
-.navbar-brand img{
+.navbar-brand img {
     width: 2rem;
 }
 
-.navbar-brand p{
+.navbar-brand p {
     display: inline;
     color: white;
 }
 
-.navbar a{
+.navbar a {
     margin: auto;
 }
 
-.fixed-top{
+.fixed-top {
     position: inherit;
 }
 
-.login i{
+.login i {
     color: white;
     margin-top: 8px;
 }
